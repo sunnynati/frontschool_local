@@ -6,8 +6,9 @@
 .menu {
 	position: relative;
 	overflow: hidden;
+	float: right;
 }
 
 .menu li{
-	
+	float: left;
 }
